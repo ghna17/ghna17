@@ -5,7 +5,7 @@ I am a senior majoring in Data Analytics and Quantitative Economics at Dickinson
 - :telescope: I’m working on some programming projects to help develop cool, fun, and optimized models
 - :seedling: I'm looking for new grad opportunities in Data Analytics and Data Science to get more hands-on experience
 - :zap: In my free time, I make coffee, cook, watch movies, play guitar, and gather with my friends
-- :mailbox: nguyehan@dickinson.edu
+- :mailbox: ghna.1711@gmail.com or nguyehan@dickinson.edu
 
 ---
 
