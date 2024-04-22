@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### :woman_technologist: About Me :
-I am a senior majoring in Data Analytics and Quantitative Economics at Dickinson College, currently a Data Science Intern and Consultant at Kudu Investment Management located in New York, NY.
-- :telescope: I’m working on some programming projects to help develop cool, fun, and optimized models
+I am a senior majoring in Data Analytics and Quantitative Economics at Dickinson College, currently a Data Science Consultant at Kudu Investment Management located in New York, NY.
+- :telescope: I’m working on data projects to help my partners develop automated and optimized models in order to show models' results more interactively and user-friendly.
 - :seedling: I'm looking for new grad opportunities in Data Analytics and Data Science to get more hands-on experience
 - :zap: In my free time, I make coffee, cook, watch movies, play guitar, and gather with my friends
-- :mailbox: ghna.1711@gmail.com or nguyehan@dickinson.edu
+- :mailbox: ghna.1711@gmail.com
 
 ---
 
